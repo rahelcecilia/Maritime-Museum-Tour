@@ -167,6 +167,10 @@
 				<p><strong>Date</strong></p>
         <input type="date" class="form-control" id="date" name="date"> <br>
 
+        <p><strong>Upload Your Recipient</strong></p>
+        <input type="file" class="form-control" name="image" id="image" placeholder="Upload your Recipient" required>
+
+        <br> 
 				<p><input type="submit" value="Submit" name="submit" id="submit"></p>
 		
 					</form>
