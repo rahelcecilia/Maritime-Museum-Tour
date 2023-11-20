@@ -336,7 +336,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
-              <img src="assets/m-img/Foto-3.jpg" class="img-fluid" alt="">
+              <img src="assets/m-img/Team-4.jpg" class="img-fluid" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
