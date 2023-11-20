@@ -58,12 +58,12 @@
       <nav id="navbar" class="navbar">
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="short-review.html">Short Review</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="short-review.php">Short Review</a></li>
             <!-- <li><a href="services.html">Services</a></li>
             <li><a href="procedure.html">Procedure</a></li> -->
-            <li><a href="reservation.html" class="active">Reservation</a></li>
+            <li><a href="reservation.php" class="active">Reservation</a></li>
             <!-- <li><a href="contact.html">Contact</a></li> -->
           </ul>
         </nav><!-- .navbar -->
