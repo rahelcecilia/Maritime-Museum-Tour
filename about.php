@@ -275,7 +275,7 @@
 
         <div class="section-header">
           <h2>Our Team</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <p>Below are the list of our team member, their NRP, and their respective responsibilities.</p>
         </div>
 
         <div class="row gy-5">
@@ -328,15 +328,15 @@
             </div>
             <div class="member-info text-center">
               <h4>Rahal Cecilia Purba</h4>
-              <span></span>
+              <span>IT Support</span>
               <span>5025201155</span>
-              <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
+              <p>Creating the layout of the website and provide environment where customer can easily book their ticket.</p>
             </div>
           </div><!-- End Team Member -->
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
-              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <img src="assets/m-img/Foto-3.jpg" class="img-fluid" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -345,15 +345,17 @@
               </div>
             </div>
             <div class="member-info text-center">
-              <h4>Amanda Jepson</h4>
-              <span>Accountant</span>
-              <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi quam consectetur</p>
+              <h4>Muhammad Firhan Adjie Nugraha </h4>
+              <span>Explanaion Communicator</span>
+              <span>5019201147</span>
+              
+              <p>Provide further backup for the other team member in the field directly with the customer.</p>
             </div>
           </div><!-- End Team Member -->
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="500">
             <div class="member-img">
-              <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
+              <img src="assets/m-img/Foto-3.jpg" class="img-fluid" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -362,12 +364,13 @@
               </div>
             </div>
             <div class="member-info text-center">
-              <h4>Brian Doe</h4>
-              <span>Marketing</span>
-              <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia impedit laborum velit</p>
+              <h4>Naufal Izza Alauddin</h4>
+              <span>UI UX Designer</span>
+              <span>5013201064</span>
+              <p>Have their own collaboration with IT Support to create better online platform for the customer.</p>
             </div>
           </div><!-- End Team Member -->
-
+<!-- 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
             <div class="member-img">
               <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
@@ -383,7 +386,7 @@
               <span>Operation</span>
               <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit eligendi cupiditate vel</p>
             </div>
-          </div><!-- End Team Member -->
+          </div>End Team Member -->
 
         </div>
 
